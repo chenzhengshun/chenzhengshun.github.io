@@ -6,7 +6,7 @@
   <link href="https://github.com/chenzhengshun/chenzhengshun.github.io/atom.xml" rel="self"/>
   
   <link href="https://github.com/chenzhengshun/chenzhengshun.github.io/"/>
-  <updated>2025-05-07T04:30:57.925Z</updated>
+  <updated>2025-05-07T04:32:59.443Z</updated>
   <id>https://github.com/chenzhengshun/chenzhengshun.github.io/</id>
   
   <author>
@@ -21,21 +21,21 @@
     <link href="https://github.com/chenzhengshun/chenzhengshun.github.io/2025/05/07/%E5%B8%B8%E7%94%A8%E7%9A%84MarkDown%E8%AF%AD%E6%B3%95/"/>
     <id>https://github.com/chenzhengshun/chenzhengshun.github.io/2025/05/07/%E5%B8%B8%E7%94%A8%E7%9A%84MarkDown%E8%AF%AD%E6%B3%95/</id>
     <published>2025-05-07T04:18:09.984Z</published>
-    <updated>2025-05-07T04:30:57.925Z</updated>
+    <updated>2025-05-07T04:32:59.443Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>title:<strong>常用的MarkDown语法</strong></p></blockquote><p>** ** 加粗</p><p>** 斜体</p><p>三个* 是斜体和加粗 </p><p>`&#96; 代码块</p><p>&gt; 引用</p><p>[]() 连接 中括号内 写来连接的名字，小括号内写连接</p><p>![]()  插入图片 </p><p>#1-6 对应标题的大小</p><p>具体的可以查看链接<a href="https://markdown.com.cn/basic-syntax/">MarkDown</a></p>]]></content>
+    <content type="html"><![CDATA[<title>**常用的MarkDown语法**<p>** ** 加粗</p><p>** 斜体</p><p>三个* 是斜体和加粗 </p><p>`&#96; 代码块</p><p>&gt; 引用</p><p>[]() 连接 中括号内 写来连接的名字，小括号内写连接</p><p>![]()  插入图片 </p><p>#1-6 对应标题的大小</p><p>具体的可以查看链接<a href="https://markdown.com.cn/basic-syntax/">MarkDown</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;title:&lt;strong&gt;常用的MarkDown语法&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+    <summary type="html">&lt;title&gt;**常用的MarkDown语法**
+
 &lt;p&gt;** ** 加粗&lt;/p&gt;
 &lt;p&gt;** 斜体&lt;/p&gt;
 &lt;p&gt;三个* 是斜体和加粗 &lt;/p&gt;
 &lt;p&gt;`&amp;#96; 代码块&lt;/p&gt;
-&lt;p&gt;</summary>
+&lt;p&gt;&amp;gt; 引用&lt;/p&gt;
+&lt;p&gt;[]() 连接 中括号内 写来连接的名字，小括号内写连接&lt;/</summary>
       
     
     
