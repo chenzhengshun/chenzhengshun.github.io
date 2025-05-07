@@ -8,7 +8,7 @@
       <link href="/chenzhengshun/chenzhengshun.github.io/2025/05/07/%E5%B8%B8%E7%94%A8%E7%9A%84MarkDown%E8%AF%AD%E6%B3%95/"/>
       <url>/chenzhengshun/chenzhengshun.github.io/2025/05/07/%E5%B8%B8%E7%94%A8%E7%9A%84MarkDown%E8%AF%AD%E6%B3%95/</url>
       
-        <content type="html"><![CDATA[<p><strong>常用的MarkDown语法</strong></p><p>** ** 加粗</p><p>** 斜体</p><p>三个* 是斜体和加粗 </p><p>`&#96; 代码块</p><p>&gt; 引用</p><p>[]() 连接 中括号内 写来连接的名字，小括号内写连接</p><p>![]()  插入图片 </p><p>#1-6 对应标题的大小</p><p>具体的可以查看链接<a href="https://markdown.com.cn/basic-syntax/">MarkDown</a></p>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>title:<strong>常用的MarkDown语法</strong></p></blockquote><p>** ** 加粗</p><p>** 斜体</p><p>三个* 是斜体和加粗 </p><p>`&#96; 代码块</p><p>&gt; 引用</p><p>[]() 连接 中括号内 写来连接的名字，小括号内写连接</p><p>![]()  插入图片 </p><p>#1-6 对应标题的大小</p><p>具体的可以查看链接<a href="https://markdown.com.cn/basic-syntax/">MarkDown</a></p>]]></content>
       
       
       
